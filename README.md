@@ -1,5 +1,5 @@
 # xinu-timed-events
-ALT-H2 CIS 657 Principles of Operating System - lab 6
+## CIS 657 Principles of Operating System - lab 6
 ------------------------------------------------------------------
 This repository contains the original xinu source code for the 
 beagle bone black. A prototype functionality of timed function is also implemented 
@@ -17,4 +17,4 @@ Steps to build xinu image (root folder)
 5. $ cd ..
 6. $ make clean; make (compile directory)
 
-xinu binary is located in xinu/compile/xinu 
+A precompiled xinu binary is located in xinu/compile/xinu 
